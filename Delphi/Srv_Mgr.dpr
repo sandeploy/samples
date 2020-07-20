@@ -1,4 +1,4 @@
-program sVOG_Mgr;
+program Srv_Mgr;
 
 uses
   Forms,
